@@ -1,0 +1,7 @@
+/.git
+/.idea
+/!dz07.loftschool-master
+/node_modules
+/composer.json
+/composer.lock
+/package-lock.json
